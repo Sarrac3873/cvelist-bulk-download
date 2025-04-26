@@ -46,7 +46,7 @@
     "lodash": "^4.17.21",
     "octokit": "^3.1.2",
     "simple-git": "^3.19.1",
-    "tslib": "~2.4"
+    "tslib": "~2.8.1"
   },
   "volta": {
     "node": "16.13.0"
